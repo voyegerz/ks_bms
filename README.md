@@ -1,4 +1,4 @@
-# Inventory Management System
+# Inventory Management System and billing software
 Amzing Project on Management System
 -Open source inventory management system with php and mysql
 
